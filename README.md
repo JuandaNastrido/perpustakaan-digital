@@ -54,13 +54,17 @@ Sistem manajemen perpustakaan digital lengkap untuk Project UTS Web Lanjut.
 - Password: `password`
 
 ## 📸 Screenshots
-Book catalog
+- Book catalog
+
 <img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/37e09641-a441-441f-9a66-7f7d3a6b6558" />
-Member area
+- Member area
+
 <img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/5b0bd144-7a6b-478d-ac99-8a92b52d51ff" />
-Database relations
+-Database relations
+
 <img width="1225" height="804" alt="image" src="https://github.com/user-attachments/assets/364d6789-dd10-4a8f-a468-8488bf449592" />
-Admin dashboard
+-Admin dashboard
+
 <img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/d4761a7e-b04e-45b0-96c0-8e072942cce1" />
 
 
