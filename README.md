@@ -50,8 +50,8 @@ Sistem manajemen perpustakaan digital lengkap untuk Project UTS Web Lanjut.
 - Password: `password`
 
 **Member Area**: `http://localhost/perpustakaan-digital/login.php`  
-- Username: `najuuu`
-- Password: `300105`
+- Username: `member1`
+- Password: `password`
 
 ## 📸 Screenshots
 
